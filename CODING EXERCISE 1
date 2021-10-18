@@ -6,7 +6,7 @@ public class campuslife {
 		// TODO Auto-generated method stub
 		System.out.println("\n **Campus Life In One Day**");
 		System.out.println("");
-		System.out.println("6:30 am - Bangun dan solat Subuh");
+		System.out.println("6:30 am - mandi + solat Subuh");
 		System.out.println("7:30 am - Sarapan");
 		System.out.println("8:30 am - class");
 		System.out.println("12:30pm - makan tengah hari ");
@@ -15,8 +15,9 @@ public class campuslife {
 		System.out.println("4:30 pm - solat asar");
 		System.out.println("5:30 pm - beriadah");
 		System.out.println("7:30 pm - solat maghrib + isyak");
-		System.out.println("9:30 pm - study ");
-		System.out.println("10:30pm - tidur");
+		System.out.println("8:00 pm - makan malam ");
+		System.out.println("9:00 pm - study + programming work");
+		System.out.println("11:30pm - tidur");
 	}
 
 }
